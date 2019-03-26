@@ -1,0 +1,10 @@
+ipython
+matplotlib
+pytorch
+tensorflow-gpu
+baidu-aip
+pyaudio
+bs4
+feather-format==0.4.0
+pandas
+flask
