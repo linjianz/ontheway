@@ -5,8 +5,8 @@
 
 - MemN2N
 
-<img src="http://wx1.sinaimg.cn/large/9fdad47fly1g1g6y5yk1uj22360xedmz.jpg" alt="image" width="550">
+<img src="http://wx1.sinaimg.cn/large/9fdad47fly1g1g6y5yk1uj22360xedmz.jpg" alt="image" width="800">
 
 - Transformer
 
-<img src="http://ws3.sinaimg.cn/large/9fdad47fly1g1g71tqhyrj20v217c130.jpg" alt="image" width="350">
+<img src="http://ws3.sinaimg.cn/large/9fdad47fly1g1g71tqhyrj20v217c130.jpg" alt="image" width="400">
